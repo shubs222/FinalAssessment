@@ -1,0 +1,6 @@
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\bin\Debug\DAL.dll
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\bin\Debug\DAL.pdb
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.dll
+D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.pdb
