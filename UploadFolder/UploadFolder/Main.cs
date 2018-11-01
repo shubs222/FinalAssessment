@@ -33,7 +33,7 @@ namespace UploadFolder
             DataTable dataTable = uploadData.GetRootTable();
             foreach (DataRow dataRow in dataTable.Rows)
             {
-                SPUploadFolder.UploadFoldersRecursively(context, dataRow["Path"].ToString() + dataRow["Name"].ToString(), "Documents");
+                SPUploadFolder.UploadFoldersRecursively(context, dataRow["Path"].ToString()+dataRow["Name"].ToString(), "Documents");
             }
             UploadProgressBar.Hide();
             MessageBox.Show("Folders Are Uploaded Successfully");
@@ -41,7 +41,7 @@ namespace UploadFolder
        
         private static SecureString GetPassword()
         {
-            string pass = "Arti@4003";
+           
             //Get the user's password as a SecureString  
             SecureString securePassword = new SecureString();
             foreach (char password in pass)
