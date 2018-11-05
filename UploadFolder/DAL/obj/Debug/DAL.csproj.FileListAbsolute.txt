@@ -1,6 +1,42 @@
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\bin\Debug\DAL.dll
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\bin\Debug\DAL.pdb
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.dll
-D:\My Tasks\FinalAssessment\UploadFolder\DAL\obj\Debug\DAL.pdb
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\DAL.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\DAL.pdb
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\obj\Debug\DAL.dll
+C:\Users\nithin.vangala\source\repos\UploadFolder\DAL\obj\Debug\DAL.pdb
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\DAL.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\DAL.pdb
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\obj\Debug\DAL.dll
+C:\Users\arvind.torvi\Desktop\UploadFolder\DAL\obj\Debug\DAL.pdb
